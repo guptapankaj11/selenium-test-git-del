@@ -1,4 +1,5 @@
 # Selenium
+Sree created this branch from trunk to work on US1234 Login fix. When the branch is created, last commit on Trunk was made on Nov 30th
 
 [![CI](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml/badge.svg?branch=trunk&event=schedule)](https://github.com/SeleniumHQ/selenium/actions/workflows/ci.yml)
 [![Releases downloads](https://img.shields.io/github/downloads/SeleniumHQ/selenium/total.svg)](https://github.com/SeleniumHQ/selenium/releases)
